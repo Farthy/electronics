@@ -10,8 +10,11 @@ Valuation adjustment implementation is important as valuation rate may change at
 Implemetation of email sending, coz i did a bit of workflow on material request, where there is store manager that creates the material request and on creation of the material request, the status becomes pending and sends an email to the General manager for approval, when a material request is created it creates a task to for the generaral manager
 
 ![Screenshot from 2024-09-13 16-01-13](https://github.com/user-attachments/assets/80b4e1e5-11ba-49b7-8063-cd6880f95641)
+touched Role Permission manager a bit. where i created a user and gave him the role profile of the general manager and gave him permission on the Material Request Document, even the store manager was given some permissions, like on the material request he can only create and not ammend/write 
 
 ![WhatsApp Image 2024-09-13 at 7 40 41 PM](https://github.com/user-attachments/assets/868a2829-7b0f-4679-90c0-49290e81b8b5)
+
+here is a picture of the email i get once the request has been made. 
 
 
 ![Screenshot from 2024-09-13 16-00-11](https://github.com/user-attachments/assets/0b0ab6c4-ddff-41d0-a00a-adf951d13fa0)
