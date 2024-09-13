@@ -7,6 +7,8 @@ Valuation adjustment implementation is important as valuation rate may change at
 
 ![Screenshot from 2024-09-13 16-02-03](https://github.com/user-attachments/assets/79ba67bc-4e60-4ab7-9424-a06647feb563)
 
+Implemetation of email sending, coz i did a bit of workflow on material request, where there is store manager that creates the material request and on creation of the material request, the status becomes pending and sends an email to the General manager for approval, when a material request is created it creates a task to for the generaral manager
+
 ![Screenshot from 2024-09-13 16-01-13](https://github.com/user-attachments/assets/80b4e1e5-11ba-49b7-8063-cd6880f95641)
 
 ![WhatsApp Image 2024-09-13 at 7 40 41 PM](https://github.com/user-attachments/assets/868a2829-7b0f-4679-90c0-49290e81b8b5)
